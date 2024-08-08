@@ -1,4 +1,4 @@
-package ch01.sec06;
+package ch01.sec11;
 
 public class Hello {
 
